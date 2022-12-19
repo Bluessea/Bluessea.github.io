@@ -2396,7 +2396,7 @@
       date: December 14-17, 2021
       place: Tokyo, Japan
 - title: ICIP
-  description: International  Joint Conference on Image Processing
+  description: The IEEE International Conference on Image Processing
   sub: CG
   rank: C
   dblp: ICIP
@@ -2410,7 +2410,7 @@
       date: Oct 8-11, 2023
       place: Kuala Lumpur, Malaysia
 - title: IJCNN
-  description: The IEEE International Conference on Neural Networks
+  description: International Joint Conference on Neural Networks
   sub: AI
   rank: C
   dblp: IJCNN
