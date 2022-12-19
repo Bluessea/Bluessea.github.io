@@ -2409,6 +2409,20 @@
       timezone: UTC+0
       date: Oct 8-11, 2023
       place: Kuala Lumpur, Malaysia
+- title: IJCNN
+  description: The IEEE International Conference on Image Processing
+  sub: AI
+  rank: C
+  dblp: IJCNN
+  confs:
+    - year: 2023
+      id: ijcnn23
+      link: https://2023.ijcnn.org/
+      timeline:
+        - deadline: '2023-01-31 23:59:59'
+      timezone: UTC+0
+      date: Mar 30-31, 2023
+      place: Broadbeach, Gold Coast, Queensland, Australia
 - title: ACM SIGGRAPH
   description: ACM SIGGRAPH Annual Conference
   sub: CG
